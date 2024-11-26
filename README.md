@@ -28,3 +28,5 @@ For detailed information about the Spike simulator, visit the official documenta
 To install the Spike RISC-V ISA Simulator, follow the step-by-step instructions provided on this [page](https://github.com/riscv-software-src/riscv-isa-sim).
 
 To set up the RISC-V GNU Compiler Toolchain, refer to the installation steps available on this [page](https://github.com/riscv-collab/riscv-gnu-toolchain/blob/master/README.md).
+
+To install the Proxy Kernel, follow the instructions provided on this [page](https://github.com/riscv-software-src/riscv-pk).
